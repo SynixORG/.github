@@ -1,1 +1,1 @@
-<img width="3840" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbbb84aa-9e08-45bf-8a28-04b2bb939c36" />
+<img width="3840" height="1600" alt="image" src="[https://github.com/user-attachments/assets/cbbb84aa-9e08-45bf-8a28-04b2bb939c36](https://cdn.discordapp.com/attachments/1539029404737474652/1541187131207196834/F4ECBEE6-0B85-44A4-9F1D-171417B0AEA5.png?ex=6acc9e9d&is=6acb4d1d&hm=1ddc19024aa91b08214c0085930a0a46854cac426eab8baf8f96d1ed1d3f2db2&)" />
